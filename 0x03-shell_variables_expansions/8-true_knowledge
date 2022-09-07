@@ -1,12 +1,2 @@
 #!/bin/bash
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	../0x01-shell_permissions/.100-change_owner_and_group.swp
-	../0x02-shell_redirections/102-acrostic
-	8-true_knowledge
-	../README.md
-
-nothing added to commit but untracked files present (use "git add" to track)
+echo $((128 + $TRUEKNOWLEDGE))
